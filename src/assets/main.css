@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: sans-serif;
+}
+
+@media (max-width: 84em) {
+}
+
+@media (max-width: 75em) {
+  html {
+    font-size: 56.25%;
+  }
+}
+
+@media (max-width: 59em) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media (max-width: 44em) {
+}
+
+@media (max-width: 34em) {
+}
